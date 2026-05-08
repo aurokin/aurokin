@@ -12,9 +12,10 @@ handoff, and the developer experience around all of it.
 
 | Project | Focus |
 | --- | --- |
-| [RouterChat](https://github.com/aurokin/routerchat) | Local-first open-source chat for OpenRouter with optional self-hosted Convex cloud sync |
+| [hsadler.com](https://hsadler.com) | Personal site for projects, writing, resume, and agent-native engineering work |
 | [custom_skills](https://github.com/aurokin/custom_skills) | Curated coding-agent skills with reproducible install and project deployment workflows |
 | [custom_agents](https://github.com/aurokin/custom_agents) | Shared agent definitions generated for Claude, Copilot, Codex, and Gemini |
+| [RouterChat](https://github.com/aurokin/routerchat) | Local-first open-source chat for OpenRouter with optional self-hosted Convex cloud sync |
 | [agentchat](https://github.com/aurokin/agentchat) | Self-hosted multi-runtime agent chat harness with operator-owned state |
 | [agentscan](https://github.com/aurokin/agentscan) | Rust CLI and daemon for discovering AI agent panes in tmux |
 | [tprompt](https://github.com/aurokin/tprompt) | Go TUI and daemon for prompt selection and tmux delivery |
