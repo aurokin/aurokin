@@ -12,7 +12,6 @@ handoff, and the developer experience around all of it.
 
 | Project | Focus |
 | --- | --- |
-| [hsadler.com](https://hsadler.com) | Personal site for projects, writing, resume, and agent-native engineering work |
 | [custom_skills](https://github.com/aurokin/custom_skills) | Curated coding-agent skills with reproducible install and project deployment workflows |
 | [custom_agents](https://github.com/aurokin/custom_agents) | Shared agent definitions generated for Claude, Copilot, Codex, and Gemini |
 | [reviewgraph](https://github.com/aurokin/reviewgraph) | LangGraph-powered PR review orchestrator with staged multi-agent reviewers and human-gated GitHub writes |
