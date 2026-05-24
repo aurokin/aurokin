@@ -20,7 +20,7 @@ handoff, and the developer experience around all of it.
 | [agentscan](https://github.com/aurokin/agentscan) | Rust CLI and daemon for discovering AI agent panes in tmux |
 | [tprompt](https://github.com/aurokin/tprompt) | Go TUI and daemon for prompt selection and tmux delivery |
 | [warcraft_cli](https://github.com/aurokin/warcraft_cli) | Agent-friendly World of Warcraft data CLI monorepo across guides, rankings, logs, and simulation workflows |
-| [webmux](https://github.com/aurokin/webmux) | Early browser-first tmux client work for live sessions, handoff, and agent workflow UI |
+| [atlassian-cli](https://github.com/aurokin/atlassian-cli) | True-to-API Jira and Confluence CLIs |
 
 ## Current Focus
 
