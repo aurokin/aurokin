@@ -15,6 +15,6 @@ handoff, and the developer experience around all of it.
 | [agentscan](https://github.com/aurokin/agentscan) | Rust CLI and daemon for discovering AI agent panes in tmux |
 | [tprompt](https://github.com/aurokin/tprompt) | Go TUI and daemon for prompt selection and tmux delivery |
 | [diffwarden](https://github.com/aurokin/diffwarden) | Agent-callable CLI for reviewing local changes, branch diffs, and commits |
-| [warcraft-cli](https://github.com/aurokin/warcraft_cli) | World of Warcraft data CLI suite for guides, references, rankings, logs, and simulation workflows |
 | [skills-manager](https://github.com/aurokin/skills-manager) | Cross-harness skill and agent management with extensible public/private roots and a rendered-variant review console |
+| [warcraft-cli](https://github.com/aurokin/warcraft_cli) | World of Warcraft data CLI suite for guides, references, rankings, logs, and simulation workflows |
 | [atlassian-cli](https://github.com/aurokin/atlassian-cli) | True-to-API Jira and Confluence CLIs |
